@@ -15,3 +15,9 @@ Este repositório reúne conteúdos técnicos construídos para conectar necessi
 > Tecnologia existe para sustentar uma operação. IA acelera pesquisa, revisão e automação; entendimento, teste e responsabilidade técnica continuam humanos.
 
 Os conteúdos detalhados serão publicados gradualmente, com documentação reproduzível e exemplos que possam ser revisados por qualquer pessoa.
+
+## Reuso e licenças
+
+A documentação deste repositório está sob a licença [Creative Commons Atribuição 4.0 Internacional](LICENSE.md). Ela permite compartilhar e adaptar o material, inclusive comercialmente, desde que a autoria seja atribuída e as alterações sejam indicadas.
+
+Exemplos de código e templates que vierem a ser publicados terão uma licença própria no respectivo repositório ou diretório; a preferência inicial é a licença MIT para facilitar clonagem, estudo e adaptação.
